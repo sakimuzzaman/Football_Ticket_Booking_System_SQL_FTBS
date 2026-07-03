@@ -12,6 +12,19 @@ A simple PostgreSQL database project for managing a Football Ticket Booking Syst
 
 ---
 
+## Assignment Submission Links
+
+- **ERD Link (Public):**  
+  https://drawsql.app/teams/mdsakimuuzzaman/diagrams/footballticketbookingsystem#
+
+- **GitHub Repository Link (Public):**  
+  https://github.com/sakimuzzaman/Football_Ticket_Booking_System_SQL_FTBS
+
+- **Interview Video Link (Public):**  
+  https://drive.google.com/file/d/1-LOFNIR5uiuvtKEXJhYZzLa3ETVXc99i/view
+
+---
+
 ## 🗂 Database Schema
 
 The database contains three tables:
@@ -128,18 +141,7 @@ Retrieve the second and third most expensive matches by skipping the highest-pri
 
 ---
 
-## Assignment Submission Links
 
-- **ERD Link (Public):**  
-  https://drawsql.app/teams/mdsakimuuzzaman/diagrams/footballticketbookingsystem#
-
-- **GitHub Repository Link (Public):**  
-  https://github.com/sakimuzzaman/Football_Ticket_Booking_System_SQL_FTBS
-
-- **Interview Video Link (Public):**  
-  https://drive.google.com/file/d/1-LOFNIR5uiuvtKEXJhYZzLa3ETVXc99i/view
-
----
 
 ## 🛠 Technologies Used
 
